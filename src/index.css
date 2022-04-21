@@ -150,3 +150,12 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+.Filter{
+  position: relative;
+}
+
+.SortButton {
+  padding: 10px;
+  position: relative;
+}
